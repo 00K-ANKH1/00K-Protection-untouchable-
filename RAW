@@ -1,4 +1,4 @@
---by 00K
+--made by 00K--
  
  
 -- FLING
@@ -60,7 +60,8 @@ local Frame = Instance.new("Frame")
 local Frame_2 = Instance.new("Frame")
 local TextLabel = Instance.new("TextLabel")
 local TextButton = Instance.new("TextButton")
- 
+--worship me--
+print("worship me")
 --Properties:
  
 ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
